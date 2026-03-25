@@ -4,6 +4,7 @@ make it introduction<br><br>Hello, I am Manthan, a Computer Science Engineering 
 
 
 ## 🌐 Socials:
+https://www.codechef.com/users/manthan18_11
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manthan-khujnare-17bb11291) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.comu/manthan__18?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manthankhujnare18@gmail.com) 
 
 # 💻 Tech Stack:
