@@ -1,10 +1,9 @@
 
 # 💫 About Me:
-make it introduction<br><br>Hello, I am Manthan, a Computer Science Engineering (CSE) student with a keen interest in cybersecurity and ethical hacking. I enjoy working with Python to build automation tools and security-based projects, which helps me strengthen my practical knowledge in the field. I actively participate in Capture The Flag (CTF) challenges, where I explore real-world security problems and improve my problem-solving skills.<br><br>I have a basic understanding of programming languages like C and C++, along with web technologies such as HTML and CSS. I am passionate about security research and continuously learning new concepts in cybersecurity. Currently, I am looking for internship opportunities where I can apply my skills, gain hands-on experience, and grow as a cybersecurity professional.<br>
+Hello, I am Manthan, a Computer Science Engineering (CSE) student with a keen interest in cybersecurity and ethical hacking. I enjoy working with Python to build automation tools and security-based projects, which helps me strengthen my practical knowledge in the field. I actively participate in Capture The Flag (CTF) challenges, where I explore real-world security problems and improve my problem-solving skills.<br><br>I have a basic understanding of programming languages like C and C++, along with web technologies such as HTML and CSS. I am passionate about security research and continuously learning new concepts in cybersecurity. Currently, I am looking for internship opportunities where I can apply my skills, gain hands-on experience, and grow as a cybersecurity professional.<br>
 
 
 ## 🌐 Socials:
-https://www.codechef.com/users/manthan18_11
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/manthan-khujnare-17bb11291) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.comu/manthan__18?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manthankhujnare18@gmail.com) 
 
 # 💻 Tech Stack:
